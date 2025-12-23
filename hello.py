@@ -1,2 +1,6 @@
-print("Hello, World!")
-print("My name is Naruppo")
+def helloworld():
+    print("Hello, World!")
+    print("My name is Naruppo")
+    
+    
+helloworld()
